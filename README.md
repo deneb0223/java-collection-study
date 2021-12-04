@@ -4,3 +4,7 @@
 
 ### 참고사이트
     http://tutorials.jenkov.com/java-collections/index.html
+
+### 이력
+    2021.12.03 Collection
+    2021.12.04 List

@@ -102,4 +102,4 @@ private void grow(int minCapacity) {
 요약하자면 Collection은 기존의 자료구조(array)가 가지고 있는 단점을 극복하기 위해 만들어진 자료구조들 제공하는
 Java의 프레임워크다.<br>
 
-개발자는 
+개발자는 컬렉션프레임워크를 활용하여 다양한 자료구조의 형태를 활용할 수 있다.
