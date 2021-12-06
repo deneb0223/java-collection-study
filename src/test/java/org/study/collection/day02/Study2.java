@@ -18,6 +18,7 @@ public class Study2 {
 
     @BeforeAll
     void init_list() {
+        // 임의의 정수 10개 생성
         numbers = new Random()
                 .ints(10, 1, 11)
                 .boxed()
