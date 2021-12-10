@@ -12,3 +12,4 @@
     2021.12.07 Map
     2021.12.08 SortedSet
     2021.12.09 NavigableMap
+    2021.12.10 Stack
