@@ -13,3 +13,5 @@
     2021.12.08 SortedSet
     2021.12.09 NavigableMap
     2021.12.10 Stack
+    2021.12.11 Queue
+    2021.12.14 Deque
