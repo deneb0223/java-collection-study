@@ -50,5 +50,29 @@ public class Deque01 {
 
     @Test
     void remove() {
+        Deque<Integer> deque = new LinkedList<>();
+        for (int i = 1; i <= 10; i++) {
+            deque.add(i);
+        }
+
+        int removedElement = deque.remove();
+        System.out.println("removedElement : " + removedElement);
+
+        int removedFirstElement = deque.removeFirst();
+        System.out.println("removedFirstElement : " + removedFirstElement);
+
+        int removedLastElement = deque.removeLast();
+        System.out.println("removedLastElement : " + removedLastElement);
+
+        // return null
+        int pollElement = deque.poll();
+        System.out.println("pollElement : " + removedElement);
+
+        int pollFirstElement = deque.pollFirst();
+        System.out.println("pollFirstElement : " + pollFirstElement);
+
+        int pollLastElement = deque.removeLast();
+        System.out.println("pollLastElement : " + pollLastElement);
+
     }
 }
