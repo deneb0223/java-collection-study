@@ -15,3 +15,4 @@
     2021.12.10 Stack
     2021.12.11 Queue
     2021.12.14 Deque
+    2021.12.15 Sorting Collections
