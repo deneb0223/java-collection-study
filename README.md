@@ -16,3 +16,4 @@
     2021.12.11 Queue
     2021.12.14 Deque
     2021.12.15 Sorting Collections
+    2021.12.21 LinkedHashMap
